@@ -4,3 +4,5 @@
   <img src="Images/avalanche.png" alt="Output" width="45%" />
 </p>
 <h2>Geographic loss </h2>
+
+<img src="Images/single_image_deforestation_results.png" alt="deforest" width="60%">
