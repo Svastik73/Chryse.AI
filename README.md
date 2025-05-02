@@ -40,7 +40,7 @@ streamlit run streamlit_avalanche.py
 <h2>SAR image colorization</h2>
 <p align="center">
   <img src="Images/ji.png" alt="UI" width="45%" />
-  
+    <img src="Images/jik.png" alt="UI" width="45%" />
 </p>
 
 
