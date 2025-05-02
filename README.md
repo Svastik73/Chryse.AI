@@ -20,9 +20,30 @@
 ```bash
 git clone https://github.com/Svastik73/Chryse.AI.git
 cd Chryse.AI
+```
+###Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+## Usage
+###1. SAR Image Colorization
+To colorize SAR images using a Convolutional Neural Network (CNN):
 
+```bash
+python CNN_SAR_color.py
+```
+###2. Deforestation Detection
+For detecting deforestation areas:
 
+```bash
+python deforestation_new.py
+```
+###3. Avalanche Delineation (Streamlit App)
+Launch the Streamlit web application for interactive avalanche delineation:
 
+```bash
+streamlit run streamlit_avalanche.py
+```
 <h2>SAR image colorization</h2>
 <p align="center">
   <img src="Images/ji.png" alt="UI" width="45%" />
