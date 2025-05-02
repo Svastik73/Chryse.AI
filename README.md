@@ -10,13 +10,6 @@
 
 ### Clone the Repository
 
-
----
-
-## ⚙️ Installation
-
-### Clone the Repository
-
 ```bash
 git clone https://github.com/Svastik73/Chryse.AI.git
 cd Chryse.AI
