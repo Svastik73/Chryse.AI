@@ -3,3 +3,4 @@
   <img src="Images/avalanche.1.png" alt="UI" width="45%" />
   <img src="Images/avalanche.png" alt="Output" width="45%" />
 </p>
+<h2>Geographic loss </h2>
